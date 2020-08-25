@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi, I'm Belen 👋
 
 <!--
-**BelenCatalan/BelenCatalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BelenCa2talan/BelenCatalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = "https://media.giphy.com/media/L3dJyY1KAXxL7SkbaU/giphy.gif">
 
 Here are some ideas to get you started:
 
