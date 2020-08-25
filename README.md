@@ -1,14 +1,30 @@
 ### Hi, I'm Belen 👋
+<img src = "https://media.giphy.com/media/L0Yi2YNJKhzTfjep6o/giphy.gif" alt = "Welcome" width = "800">
 
+
+
+```js
+
+const Belén = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [React, SASS, Git, ],
+  always: ["movile-first", "recycle-components"],
+  learning:[Javascript, React, React-native],
+  
+}
+
+```
+##### Made with ♥ by BelenCatalan
 <!--
 **BelenCa2talan/BelenCatalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
 
 
 
-![belreadme](https://user-images.githubusercontent.com/60479281/91162771-d6390780-e6cc-11ea-81b8-84968a211e0c.gif)
 
-<img src = "https://media.giphy.com/media/L3dJyY1KAXxL7SkbaU/giphy.gif">
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
